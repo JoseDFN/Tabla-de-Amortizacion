@@ -1,0 +1,544 @@
+{
+  "calculations": [
+    {
+      "id": "d080",
+      "amount": 10000,
+      "rate": 5,
+      "periods": 12,
+      "userName": "jose",
+      "clientId": "123456",
+      "amortizationType": "francesa",
+      "schedule": [
+        {
+          "cuota": 1,
+          "saldoInicial": "10000.00",
+          "cuotaMensual": "856.07",
+          "intereses": "41.67",
+          "amortizacion": "814.41",
+          "saldoRestante": "9185.59"
+        },
+        {
+          "cuota": 2,
+          "saldoInicial": "9185.59",
+          "cuotaMensual": "856.07",
+          "intereses": "38.27",
+          "amortizacion": "817.80",
+          "saldoRestante": "8367.79"
+        },
+        {
+          "cuota": 3,
+          "saldoInicial": "8367.79",
+          "cuotaMensual": "856.07",
+          "intereses": "34.87",
+          "amortizacion": "821.21",
+          "saldoRestante": "7546.58"
+        },
+        {
+          "cuota": 4,
+          "saldoInicial": "7546.58",
+          "cuotaMensual": "856.07",
+          "intereses": "31.44",
+          "amortizacion": "824.63",
+          "saldoRestante": "6721.95"
+        },
+        {
+          "cuota": 5,
+          "saldoInicial": "6721.95",
+          "cuotaMensual": "856.07",
+          "intereses": "28.01",
+          "amortizacion": "828.07",
+          "saldoRestante": "5893.88"
+        },
+        {
+          "cuota": 6,
+          "saldoInicial": "5893.88",
+          "cuotaMensual": "856.07",
+          "intereses": "24.56",
+          "amortizacion": "831.52",
+          "saldoRestante": "5062.37"
+        },
+        {
+          "cuota": 7,
+          "saldoInicial": "5062.37",
+          "cuotaMensual": "856.07",
+          "intereses": "21.09",
+          "amortizacion": "834.98",
+          "saldoRestante": "4227.39"
+        },
+        {
+          "cuota": 8,
+          "saldoInicial": "4227.39",
+          "cuotaMensual": "856.07",
+          "intereses": "17.61",
+          "amortizacion": "838.46",
+          "saldoRestante": "3388.92"
+        },
+        {
+          "cuota": 9,
+          "saldoInicial": "3388.92",
+          "cuotaMensual": "856.07",
+          "intereses": "14.12",
+          "amortizacion": "841.95",
+          "saldoRestante": "2546.97"
+        },
+        {
+          "cuota": 10,
+          "saldoInicial": "2546.97",
+          "cuotaMensual": "856.07",
+          "intereses": "10.61",
+          "amortizacion": "845.46",
+          "saldoRestante": "1701.51"
+        },
+        {
+          "cuota": 11,
+          "saldoInicial": "1701.51",
+          "cuotaMensual": "856.07",
+          "intereses": "7.09",
+          "amortizacion": "848.99",
+          "saldoRestante": "852.52"
+        },
+        {
+          "cuota": 12,
+          "saldoInicial": "852.52",
+          "cuotaMensual": "856.07",
+          "intereses": "3.55",
+          "amortizacion": "852.52",
+          "saldoRestante": "0.00"
+        }
+      ],
+      "date": "2025-02-12T13:21:37.187Z"
+    },
+    {
+      "id": "3782",
+      "amount": 20000,
+      "rate": 5,
+      "periods": 12,
+      "userName": "jose",
+      "clientId": "123456",
+      "amortizationType": "francesa",
+      "schedule": [
+        {
+          "cuota": 1,
+          "saldoInicial": "20000.00",
+          "cuotaMensual": "1712.15",
+          "intereses": "83.33",
+          "amortizacion": "1628.82",
+          "saldoRestante": "18371.18"
+        },
+        {
+          "cuota": 2,
+          "saldoInicial": "18371.18",
+          "cuotaMensual": "1712.15",
+          "intereses": "76.55",
+          "amortizacion": "1635.60",
+          "saldoRestante": "16735.58"
+        },
+        {
+          "cuota": 3,
+          "saldoInicial": "16735.58",
+          "cuotaMensual": "1712.15",
+          "intereses": "69.73",
+          "amortizacion": "1642.42",
+          "saldoRestante": "15093.16"
+        },
+        {
+          "cuota": 4,
+          "saldoInicial": "15093.16",
+          "cuotaMensual": "1712.15",
+          "intereses": "62.89",
+          "amortizacion": "1649.26",
+          "saldoRestante": "13443.90"
+        },
+        {
+          "cuota": 5,
+          "saldoInicial": "13443.90",
+          "cuotaMensual": "1712.15",
+          "intereses": "56.02",
+          "amortizacion": "1656.13",
+          "saldoRestante": "11787.77"
+        },
+        {
+          "cuota": 6,
+          "saldoInicial": "11787.77",
+          "cuotaMensual": "1712.15",
+          "intereses": "49.12",
+          "amortizacion": "1663.03",
+          "saldoRestante": "10124.73"
+        },
+        {
+          "cuota": 7,
+          "saldoInicial": "10124.73",
+          "cuotaMensual": "1712.15",
+          "intereses": "42.19",
+          "amortizacion": "1669.96",
+          "saldoRestante": "8454.77"
+        },
+        {
+          "cuota": 8,
+          "saldoInicial": "8454.77",
+          "cuotaMensual": "1712.15",
+          "intereses": "35.23",
+          "amortizacion": "1676.92",
+          "saldoRestante": "6777.85"
+        },
+        {
+          "cuota": 9,
+          "saldoInicial": "6777.85",
+          "cuotaMensual": "1712.15",
+          "intereses": "28.24",
+          "amortizacion": "1683.91",
+          "saldoRestante": "5093.94"
+        },
+        {
+          "cuota": 10,
+          "saldoInicial": "5093.94",
+          "cuotaMensual": "1712.15",
+          "intereses": "21.22",
+          "amortizacion": "1690.92",
+          "saldoRestante": "3403.02"
+        },
+        {
+          "cuota": 11,
+          "saldoInicial": "3403.02",
+          "cuotaMensual": "1712.15",
+          "intereses": "14.18",
+          "amortizacion": "1697.97",
+          "saldoRestante": "1705.05"
+        },
+        {
+          "cuota": 12,
+          "saldoInicial": "1705.05",
+          "cuotaMensual": "1712.15",
+          "intereses": "7.10",
+          "amortizacion": "1705.05",
+          "saldoRestante": "0.00"
+        }
+      ],
+      "date": "2025-02-12T13:23:12.268Z"
+    },
+    {
+      "id": "97ec",
+      "amount": 30000,
+      "rate": 5,
+      "periods": 12,
+      "userName": "jose",
+      "clientId": "123456",
+      "amortizationType": "francesa",
+      "schedule": [
+        {
+          "cuota": 1,
+          "saldoInicial": "30000.00",
+          "cuotaMensual": "2568.22",
+          "intereses": "125.00",
+          "amortizacion": "2443.22",
+          "saldoRestante": "27556.78"
+        },
+        {
+          "cuota": 2,
+          "saldoInicial": "27556.78",
+          "cuotaMensual": "2568.22",
+          "intereses": "114.82",
+          "amortizacion": "2453.40",
+          "saldoRestante": "25103.37"
+        },
+        {
+          "cuota": 3,
+          "saldoInicial": "25103.37",
+          "cuotaMensual": "2568.22",
+          "intereses": "104.60",
+          "amortizacion": "2463.63",
+          "saldoRestante": "22639.74"
+        },
+        {
+          "cuota": 4,
+          "saldoInicial": "22639.74",
+          "cuotaMensual": "2568.22",
+          "intereses": "94.33",
+          "amortizacion": "2473.89",
+          "saldoRestante": "20165.85"
+        },
+        {
+          "cuota": 5,
+          "saldoInicial": "20165.85",
+          "cuotaMensual": "2568.22",
+          "intereses": "84.02",
+          "amortizacion": "2484.20",
+          "saldoRestante": "17681.65"
+        },
+        {
+          "cuota": 6,
+          "saldoInicial": "17681.65",
+          "cuotaMensual": "2568.22",
+          "intereses": "73.67",
+          "amortizacion": "2494.55",
+          "saldoRestante": "15187.10"
+        },
+        {
+          "cuota": 7,
+          "saldoInicial": "15187.10",
+          "cuotaMensual": "2568.22",
+          "intereses": "63.28",
+          "amortizacion": "2504.94",
+          "saldoRestante": "12682.16"
+        },
+        {
+          "cuota": 8,
+          "saldoInicial": "12682.16",
+          "cuotaMensual": "2568.22",
+          "intereses": "52.84",
+          "amortizacion": "2515.38",
+          "saldoRestante": "10166.77"
+        },
+        {
+          "cuota": 9,
+          "saldoInicial": "10166.77",
+          "cuotaMensual": "2568.22",
+          "intereses": "42.36",
+          "amortizacion": "2525.86",
+          "saldoRestante": "7640.91"
+        },
+        {
+          "cuota": 10,
+          "saldoInicial": "7640.91",
+          "cuotaMensual": "2568.22",
+          "intereses": "31.84",
+          "amortizacion": "2536.39",
+          "saldoRestante": "5104.52"
+        },
+        {
+          "cuota": 11,
+          "saldoInicial": "5104.52",
+          "cuotaMensual": "2568.22",
+          "intereses": "21.27",
+          "amortizacion": "2546.96",
+          "saldoRestante": "2557.57"
+        },
+        {
+          "cuota": 12,
+          "saldoInicial": "2557.57",
+          "cuotaMensual": "2568.22",
+          "intereses": "10.66",
+          "amortizacion": "2557.57",
+          "saldoRestante": "0.00"
+        }
+      ],
+      "date": "2025-02-12T13:25:26.961Z"
+    },
+    {
+      "id": "acd4",
+      "amount": 40000,
+      "rate": 5,
+      "periods": 12,
+      "userName": "jose",
+      "clientId": "123456",
+      "amortizationType": "francesa",
+      "schedule": [
+        {
+          "cuota": 1,
+          "saldoInicial": "40000.00",
+          "cuotaMensual": "3424.30",
+          "intereses": "166.67",
+          "amortizacion": "3257.63",
+          "saldoRestante": "36742.37"
+        },
+        {
+          "cuota": 2,
+          "saldoInicial": "36742.37",
+          "cuotaMensual": "3424.30",
+          "intereses": "153.09",
+          "amortizacion": "3271.21",
+          "saldoRestante": "33471.16"
+        },
+        {
+          "cuota": 3,
+          "saldoInicial": "33471.16",
+          "cuotaMensual": "3424.30",
+          "intereses": "139.46",
+          "amortizacion": "3284.84",
+          "saldoRestante": "30186.33"
+        },
+        {
+          "cuota": 4,
+          "saldoInicial": "30186.33",
+          "cuotaMensual": "3424.30",
+          "intereses": "125.78",
+          "amortizacion": "3298.52",
+          "saldoRestante": "26887.80"
+        },
+        {
+          "cuota": 5,
+          "saldoInicial": "26887.80",
+          "cuotaMensual": "3424.30",
+          "intereses": "112.03",
+          "amortizacion": "3312.27",
+          "saldoRestante": "23575.54"
+        },
+        {
+          "cuota": 6,
+          "saldoInicial": "23575.54",
+          "cuotaMensual": "3424.30",
+          "intereses": "98.23",
+          "amortizacion": "3326.07",
+          "saldoRestante": "20249.47"
+        },
+        {
+          "cuota": 7,
+          "saldoInicial": "20249.47",
+          "cuotaMensual": "3424.30",
+          "intereses": "84.37",
+          "amortizacion": "3339.93",
+          "saldoRestante": "16909.54"
+        },
+        {
+          "cuota": 8,
+          "saldoInicial": "16909.54",
+          "cuotaMensual": "3424.30",
+          "intereses": "70.46",
+          "amortizacion": "3353.84",
+          "saldoRestante": "13555.70"
+        },
+        {
+          "cuota": 9,
+          "saldoInicial": "13555.70",
+          "cuotaMensual": "3424.30",
+          "intereses": "56.48",
+          "amortizacion": "3367.82",
+          "saldoRestante": "10187.88"
+        },
+        {
+          "cuota": 10,
+          "saldoInicial": "10187.88",
+          "cuotaMensual": "3424.30",
+          "intereses": "42.45",
+          "amortizacion": "3381.85",
+          "saldoRestante": "6806.03"
+        },
+        {
+          "cuota": 11,
+          "saldoInicial": "6806.03",
+          "cuotaMensual": "3424.30",
+          "intereses": "28.36",
+          "amortizacion": "3395.94",
+          "saldoRestante": "3410.09"
+        },
+        {
+          "cuota": 12,
+          "saldoInicial": "3410.09",
+          "cuotaMensual": "3424.30",
+          "intereses": "14.21",
+          "amortizacion": "3410.09",
+          "saldoRestante": "0.00"
+        }
+      ],
+      "date": "2025-02-12T13:27:38.991Z"
+    },
+    {
+      "id": "5790",
+      "amount": 50000,
+      "rate": 5,
+      "periods": 12,
+      "userName": "jose",
+      "clientId": "123456",
+      "amortizationType": "francesa",
+      "schedule": [
+        {
+          "cuota": 1,
+          "saldoInicial": "50000.00",
+          "cuotaMensual": "4280.37",
+          "intereses": "208.33",
+          "amortizacion": "4072.04",
+          "saldoRestante": "45927.96"
+        },
+        {
+          "cuota": 2,
+          "saldoInicial": "45927.96",
+          "cuotaMensual": "4280.37",
+          "intereses": "191.37",
+          "amortizacion": "4089.01",
+          "saldoRestante": "41838.95"
+        },
+        {
+          "cuota": 3,
+          "saldoInicial": "41838.95",
+          "cuotaMensual": "4280.37",
+          "intereses": "174.33",
+          "amortizacion": "4106.05",
+          "saldoRestante": "37732.91"
+        },
+        {
+          "cuota": 4,
+          "saldoInicial": "37732.91",
+          "cuotaMensual": "4280.37",
+          "intereses": "157.22",
+          "amortizacion": "4123.15",
+          "saldoRestante": "33609.75"
+        },
+        {
+          "cuota": 5,
+          "saldoInicial": "33609.75",
+          "cuotaMensual": "4280.37",
+          "intereses": "140.04",
+          "amortizacion": "4140.33",
+          "saldoRestante": "29469.42"
+        },
+        {
+          "cuota": 6,
+          "saldoInicial": "29469.42",
+          "cuotaMensual": "4280.37",
+          "intereses": "122.79",
+          "amortizacion": "4157.58",
+          "saldoRestante": "25311.83"
+        },
+        {
+          "cuota": 7,
+          "saldoInicial": "25311.83",
+          "cuotaMensual": "4280.37",
+          "intereses": "105.47",
+          "amortizacion": "4174.91",
+          "saldoRestante": "21136.93"
+        },
+        {
+          "cuota": 8,
+          "saldoInicial": "21136.93",
+          "cuotaMensual": "4280.37",
+          "intereses": "88.07",
+          "amortizacion": "4192.30",
+          "saldoRestante": "16944.62"
+        },
+        {
+          "cuota": 9,
+          "saldoInicial": "16944.62",
+          "cuotaMensual": "4280.37",
+          "intereses": "70.60",
+          "amortizacion": "4209.77",
+          "saldoRestante": "12734.85"
+        },
+        {
+          "cuota": 10,
+          "saldoInicial": "12734.85",
+          "cuotaMensual": "4280.37",
+          "intereses": "53.06",
+          "amortizacion": "4227.31",
+          "saldoRestante": "8507.54"
+        },
+        {
+          "cuota": 11,
+          "saldoInicial": "8507.54",
+          "cuotaMensual": "4280.37",
+          "intereses": "35.45",
+          "amortizacion": "4244.93",
+          "saldoRestante": "4262.61"
+        },
+        {
+          "cuota": 12,
+          "saldoInicial": "4262.61",
+          "cuotaMensual": "4280.37",
+          "intereses": "17.76",
+          "amortizacion": "4262.61",
+          "saldoRestante": "0.00"
+        }
+      ],
+      "date": "2025-02-12T13:28:48.753Z"
+    }
+  ]
+}
